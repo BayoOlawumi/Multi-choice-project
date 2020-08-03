@@ -1,0 +1,404 @@
+{
+    "questions": [
+        {
+            "questions": "Which Apollo mission was the first one to land on the Moon?",
+            "options": [
+                "A. Apollo 13",
+                "B. Apollo 10",
+                "C. Apollo 9",
+                "D. Apollo 11"
+            ],
+            "answer": "Apollo 11"
+        },
+        {
+            "questions": "Which of the following bones is not in the leg?",
+            "options": [
+                "A. Fibula ",
+                "B. Patella",
+                "C. Tibia",
+                "D. Radius"
+            ],
+            "answer": "Radius"
+        },
+        {
+            "questions": "Which of these bones is hardest to break?",
+            "options": [
+                "A. Cranium",
+                "B. Tibia",
+                "C. Humerus",
+                "D. Femur"
+            ],
+            "answer": "Femur"
+        },
+        {
+            "questions": "What does the letter S stand for in NASA?",
+            "options": [
+                "A. Science",
+                "B. Space",
+                "C. Society",
+                "D. Star"
+            ],
+            "answer": "Space"
+        },
+        {
+            "questions": "Which element has the chemical symbol Fe?",
+            "options": [
+                "A. Gold",
+                "B. Iron",
+                "C. Silver",
+                "D. Tin"
+            ],
+            "answer": "Iron"
+        },
+        {
+            "questions": "What name is given to all baby marsupials?",
+            "options": [
+                "A. Cub",
+                "B. Calf",
+                "C. Joey",
+                "D. Pup"
+            ],
+            "answer": "Joey"
+        },
+        {
+            "questions": "Rhinoplasty is a surgical procedure on what part of the human body?",
+            "options": [
+                "A. Nose",
+                "B. Neck",
+                "C. Ears",
+                "D. Chin"
+            ],
+            "answer": "Nose"
+        },
+        {
+            "questions": "Which is the longest bone in the human body? ",
+            "options": [
+                "A. Fibula",
+                "B. Ulna",
+                "C. Scapula",
+                "D. Femur"
+            ],
+            "answer": "Femur"
+        },
+        {
+            "questions": "Which type of rock is created by intense heat AND pressure?",
+            "options": [
+                "A. Sedimentary",
+                "B. Igneous",
+                "C. Metamorphic",
+                "D. Diamond"
+            ],
+            "answer": "Metamorphic"
+        },
+        {
+            "questions": "This element, when overcome with extreme heat and pressure, creates diamonds.",
+            "options": [
+                "A. Carbon",
+                "B. Hydrogen",
+                "C. Oxygen",
+                "D. Nitrogen"
+            ],
+            "answer": "Carbon"
+        },
+        {
+            "questions": "What is the elemental symbol for mercury?",
+            "options": [
+                "A. Me",
+                "B. Hg",
+                "C. Hy",
+                "D. Mc"
+            ],
+            "answer": "Hg"
+        },
+        {
+            "questions": "How many planets are in our Solar System?",
+            "options": [
+                "A. Nine",
+                "B. Eight",
+                "C. Ten",
+                "D. Seven"
+            ],
+            "answer": "Eight"
+        },
+        {
+            "questions": "What is the hottest planet in the Solar System?",
+            "options": [
+                "A. Mercury",
+                "B. Mars",
+                "C. Jupiter",
+                "D. Venus"
+            ],
+            "answer": "Venus"
+        },
+        {
+            "questions": "Which gas forms about 78% of the Earth's atmosphere?",
+            "options": [
+                "A. Argon",
+                "B. Nitrogen",
+                "C. Carbon Dioxide",
+                "D. Oxygen"
+            ],
+            "answer": "Nitrogen"
+        },
+        {
+            "questions": "What is the powerhouse of the cell?",
+            "options": [
+                "A. Mitochondria",
+                "B. Ribosome",
+                "C. Redbull",
+                "D. Nucleus"
+            ],
+            "answer": "Mitochondria"
+        },
+        {
+            "questions": "What is the standard SI unit for temperature?",
+            "options": [
+                "A. Rankine",
+                "B. Celsius",
+                "C. Fahrenheit",
+                "D. Kelvin"
+            ],
+            "answer": "Kelvin"
+        },
+        {
+            "questions": "Which of the following blood vessels carries deoxygenated blood?",
+            "options": [
+                "A. Aorta",
+                "B. Coronary Artery",
+                "C. Pulmonary Vein",
+                "D. Pulmonary Artery"
+            ],
+            "answer": "Pulmonary Artery"
+        },
+        {
+            "questions": "What is the chemical makeup of water?",
+            "options": [
+                "A. H",
+                "B. H20",
+                "C. C12H6O2",
+                "D. CO2"
+            ],
+            "answer": "H20"
+        },
+        {
+            "questions": "What is the primary addictive substance found in tobacco?",
+            "options": [
+                "A. Nicotine",
+                "B. Glaucine",
+                "C. Cathinone",
+                "D. Ephedrine"
+            ],
+            "answer": "Nicotine"
+        },
+        {
+            "questions": "Alzheimers disease primarily affects which part of the human body?",
+            "options": [
+                "A. Lungs",
+                "B. Brain",
+                "C. Heart",
+                "D. Skin"
+            ],
+            "answer": "Brain"
+        },
+        {
+            "questions": "How many bones are in the human body?",
+            "options": [
+                "A. 206",
+                "B. 200",
+                "C. 203",
+                "D. 209"
+            ],
+            "answer": "206"
+        },
+        {
+            "questions": "What does DNA stand for?",
+            "options": [
+                "A. Deoxyribogenetic Atoms",
+                "B. Deoxyribogenetic Acid",
+                "C. Detoxic Acid",
+                "D. Deoxyribonucleic Acid"
+            ],
+            "answer": "Deoxyribonucleic Acid"
+        },
+        {
+            "questions": "Who is the chemical element Curium named after?",
+            "options": [
+                "A. Stephen Curry",
+                "B. Marie &amp; Pierre Curie",
+                "C. The Curiosity Rover",
+                "D. Curious George"
+            ],
+            "answer": "Marie &amp; Pierre Curie"
+        },
+        {
+            "questions": "The human heart has how many chambers?",
+            "options": [
+                "A. 3",
+                "B. 2",
+                "C. 6",
+                "D. 4"
+            ],
+            "answer": "4"
+        },
+        {
+            "questions": "The element involved in making human blood red is which of the following?",
+            "options": [
+                "A. Cobalt",
+                "B. Copper",
+                "C. Iridium",
+                "D. Iron"
+            ],
+            "answer": "Iron"
+        },
+        {
+            "questions": "The asteroid belt is located between which two planets?",
+            "options": [
+                "A. Mercury and Venus",
+                "B. Mars and Jupiter",
+                "C. Earth and Mars",
+                "D. Jupiter and Saturn"
+            ],
+            "answer": "Mars and Jupiter"
+        },
+        {
+            "questions": "Human cells typically have how many copies of each gene?",
+            "options": [
+                "A. 2",
+                "B. 1",
+                "C. 4",
+                "D. 3"
+            ],
+            "answer": "2"
+        },
+        {
+            "questions": "The medical term for the belly button is which of the following?",
+            "options": [
+                "A. Paxillus",
+                "B. Umbilicus",
+                "C. Nares",
+                "D. Nevus"
+            ],
+            "answer": "Umbilicus"
+        },
+        {
+            "questions": "The biggest distinction between a eukaryotic cell and a prokaryotic cell is:",
+            "options": [
+                "A. The overall size",
+                "B. The mode of reproduction",
+                "C. The presence or absence of a nucleus",
+                "D. The presence or absence of certain organelles"
+            ],
+            "answer": "The presence or absence of a nucleus"
+        },
+        {
+            "questions": "Which element has the highest melting point?",
+            "options": [
+                "A. Carbon",
+                "B. Platinum",
+                "C. Tungsten",
+                "D. Osmium"
+            ],
+            "answer": "Carbon"
+        },
+        {
+            "questions": "How many chromosomes are in your body cells?",
+            "options": [
+                "A. 21",
+                "B. 23",
+                "C. 24",
+                "D. 22"
+            ],
+            "answer": "23"
+        },
+        {
+            "questions": "What is the standard atomic weight of a Plutonium nucleus?",
+            "options": [
+                "A. 128",
+                "B. 481",
+                "C. 94",
+                "D. 244"
+            ],
+            "answer": "244"
+        },
+        {
+            "questions": "71% of the Earths surface is made up of",
+            "options": [
+                "A. Water",
+                "B. Deserts",
+                "C. Forests",
+                "D. Continents"
+            ],
+            "answer": "Water"
+        },
+        {
+            "questions": "What does LASER stand for?",
+            "options": [
+                "A. Light amplification by stimulated emission of radiation",
+                "B. Light amplifier by standby energy of radio",
+                "C. Lite analysing by stereo ecorazer",
+                "D. Life antimatter by standing entry of range"
+            ],
+            "answer": "Light amplification by stimulated emission of radiation"
+        },
+        {
+            "questions": "What is the unit of electrical resistance?",
+            "options": [
+                "A. Joule",
+                "B. Tesla",
+                "C. Mho",
+                "D. Ohm"
+            ],
+            "answer": "Ohm"
+        },
+        {
+            "questions": "What animal takes part in Schr&ouml;dingers most famous thought experiment?",
+            "options": [
+                "A. Bat",
+                "B. Cat",
+                "C. Dog",
+                "D. Butterfly"
+            ],
+            "answer": "Cat"
+        },
+        {
+            "questions": "What is the speed of light in a vacuum?",
+            "options": [
+                "A. 299,792,458 m/s",
+                "B. 308,215,043 m/s",
+                "C. 50,461 m/s",
+                "D. 751,665,014,151 m/s"
+            ],
+            "answer": "299,792,458 m/s"
+        },
+        {
+            "questions": "Which noble gas has the lowest atomic number?",
+            "options": [
+                "A. Argon",
+                "B. Helium",
+                "C. Krypton",
+                "D. Neon"
+            ],
+            "answer": "Helium"
+        },
+        {
+            "questions": "What is the official name of the star located closest to the North Celestial Pole?",
+            "options": [
+                "A. Polaris",
+                "B. Iota Cephei",
+                "C. Eridanus",
+                "D. Gamma Cephei"
+            ],
+            "answer": "Polaris"
+        },
+        {
+            "questions": "What lies at the center of our galaxy?",
+            "options": [
+                "A. A wormhole",
+                "B. A quasar",
+                "C. A supernova",
+                "D. A black hole"
+            ],
+            "answer": "A black hole"
+        }
+    ]
+}

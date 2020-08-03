@@ -1,0 +1,404 @@
+{
+    "questions": [
+        {
+            "questions": "Which one of these was not a beach landing site in the Invasion of Normandy?",
+            "options": [
+                "A. Silver",
+                "B. Juno",
+                "C. Gold",
+                "D. Sword"
+            ],
+            "answer": "Silver"
+        },
+        {
+            "questions": "King Henry VIII was the second monarch of which European royal house?",
+            "options": [
+                "A. Stuart",
+                "B. Lancaster",
+                "C. Tudor",
+                "D. York"
+            ],
+            "answer": "Tudor"
+        },
+        {
+            "questions": "What was William Frederick Cody better known as?",
+            "options": [
+                "A. Wild Bill Hickok",
+                "B. Pawnee Bill",
+                "C. Billy the Kid",
+                "D. Buffalo Bill"
+            ],
+            "answer": "Buffalo Bill"
+        },
+        {
+            "questions": "Who discovered Penicillin?",
+            "options": [
+                "A. Louis Pasteur",
+                "B. Marie Curie",
+                "C. Alexander Flemming",
+                "D. Alfred Nobel"
+            ],
+            "answer": "Alexander Flemming"
+        },
+        {
+            "questions": "How many manned moon landings have there been?",
+            "options": [
+                "A. 6",
+                "B. 7",
+                "C. 3",
+                "D. 1"
+            ],
+            "answer": "6"
+        },
+        {
+            "questions": "The idea of Socialism was articulated and advanced by whom?",
+            "options": [
+                "A. Vladimir Putin",
+                "B. Karl Marx",
+                "C. Joseph Stalin",
+                "D. Vladimir Lenin"
+            ],
+            "answer": "Karl Marx"
+        },
+        {
+            "questions": "In what year did the Wall Street Crash take place?",
+            "options": [
+                "A. 1930",
+                "B. 1932",
+                "C. 1925",
+                "D. 1929"
+            ],
+            "answer": "1929"
+        },
+        {
+            "questions": "Which one of these tanks was designed and operated by the United Kingdom?",
+            "options": [
+                "A. Tog II",
+                "B. M4 Sherman",
+                "C. T-34",
+                "D. Tiger H1"
+            ],
+            "answer": "Tog II"
+        },
+        {
+            "questions": "Which of the following African countries was most successful in resisting colonization?",
+            "options": [
+                "A. Ethiopia",
+                "B. Namibia",
+                "C. C&ocirc;te d&rsquo;Ivoire",
+                "D. Congo"
+            ],
+            "answer": "Ethiopia"
+        },
+        {
+            "questions": "Which of the following ancient peoples was NOT classified as Hellenic (Greek)?",
+            "options": [
+                "A. Illyrians",
+                "B. Dorians",
+                "C. Achaeans",
+                "D. Ionians"
+            ],
+            "answer": "Illyrians"
+        },
+        {
+            "questions": "Which famous world leader is famed for the saying, Let them eat cake, yet is rumored that he/she never said it at all?",
+            "options": [
+                "A. Henry VIII",
+                "B. Elizabeth I",
+                "C. Marie Antoinette",
+                "D. Czar Nicholas II"
+            ],
+            "answer": "Marie Antoinette"
+        },
+        {
+            "questions": "Which of these countries remained neutral during World War II?",
+            "options": [
+                "A. United Kingdom",
+                "B. Switzerland",
+                "C. Italy",
+                "D. France"
+            ],
+            "answer": "Switzerland"
+        },
+        {
+            "questions": "The collapse of the Soviet Union took place in which year?",
+            "options": [
+                "A. 1891",
+                "B. 1991",
+                "C. 1990",
+                "D. 1992"
+            ],
+            "answer": "1991"
+        },
+        {
+            "questions": "What was Manfred von Richthofens nickname?",
+            "options": [
+                "A. The High Flying Ace",
+                "B. The Germany Gunner",
+                "C. The Red Baron",
+                "D. The Blue Serpent "
+            ],
+            "answer": "The Red Baron"
+        },
+        {
+            "questions": "Which modern day country is the region that was known as Phrygia in ancient times?",
+            "options": [
+                "A. Turkey",
+                "B. Greece",
+                "C. Syria",
+                "D. Egypt"
+            ],
+            "answer": "Turkey"
+        },
+        {
+            "questions": "In which year did the Invasion of Kuwait by Iraq occur?",
+            "options": [
+                "A. 1992",
+                "B. 1988",
+                "C. 1986",
+                "D. 1990"
+            ],
+            "answer": "1990"
+        },
+        {
+            "questions": "When did the Battle of the Somme begin?",
+            "options": [
+                "A. July 1st, 1916",
+                "B. June 30th, 1916",
+                "C. July 2nd, 1916",
+                "D. August 1st, 1916"
+            ],
+            "answer": "July 1st, 1916"
+        },
+        {
+            "questions": "Who was the first president of the United States?",
+            "options": [
+                "A. James K. Polk",
+                "B. Thomas Jefferson",
+                "C. George Washington",
+                "D. James Madison"
+            ],
+            "answer": "George Washington"
+        },
+        {
+            "questions": "In 1720, England was in massive debt, and became in involved in the South Sea Bubble. Who was the main mastermind behind it?",
+            "options": [
+                "A. Robert Harley",
+                "B. John Churchill",
+                "C. Daniel Defoe",
+                "D. John Blunt"
+            ],
+            "answer": "John Blunt"
+        },
+        {
+            "questions": "Who was the Prime Minister of Japan when Japan declared war on the US?",
+            "options": [
+                "A. Michinomiya Hirohito",
+                "B. Fumimaro Konoe",
+                "C. Isoroku Yamamoto",
+                "D. Hideki Tojo"
+            ],
+            "answer": "Hideki Tojo"
+        },
+        {
+            "questions": "What was the first sport to have been played on the moon?",
+            "options": [
+                "A. Tennis",
+                "B. Football",
+                "C. Golf",
+                "D. Soccer"
+            ],
+            "answer": "Golf"
+        },
+        {
+            "questions": "Who was the first prime minister of Canada?",
+            "options": [
+                "A. John Macdonald",
+                "B. Alexander Mackenzie",
+                "C. John Abbott",
+                "D. Robert Borden"
+            ],
+            "answer": "John Macdonald"
+        },
+        {
+            "questions": "How was Socrates executed?",
+            "options": [
+                "A. Decapitation",
+                "B. Firing squad",
+                "C. Crucifixion ",
+                "D. Poison"
+            ],
+            "answer": "Poison"
+        },
+        {
+            "questions": "How long did World War II last?",
+            "options": [
+                "A. 6 years",
+                "B. 7 years",
+                "C. 4 years",
+                "D. 5 years"
+            ],
+            "answer": "6 years"
+        },
+        {
+            "questions": "Which of the following countries was not an axis power during World War II?",
+            "options": [
+                "A.  Soviet Union",
+                "B. Germany",
+                "C. Japan",
+                "D. Italy"
+            ],
+            "answer": " Soviet Union"
+        },
+        {
+            "questions": "In 1939, Britain and France declared war on Germany after it invaded which country?",
+            "options": [
+                "A. Austria",
+                "B. Czechoslovakia",
+                "C. Hungary",
+                "D. Poland"
+            ],
+            "answer": "Poland"
+        },
+        {
+            "questions": "The Trail of Tears was a result of which United States Presidents Indian Removal Policy?",
+            "options": [
+                "A. Andrew Jackson",
+                "B. Martin Van Buren",
+                "C. Harry S. Truman",
+                "D. John Quincy Adams"
+            ],
+            "answer": "Andrew Jackson"
+        },
+        {
+            "questions": "Who was among those killed in the 2010 Smolensk, Russia plane crash tragedy?",
+            "options": [
+                "A. Albert Putin",
+                "B. Pope John Paul II",
+                "C. Bang-Ding Ow",
+                "D. The Polish President"
+            ],
+            "answer": "The Polish President"
+        },
+        {
+            "questions": "To what political party did Abraham Lincoln belong when elected POTUS?",
+            "options": [
+                "A. Independent",
+                "B. Democrat",
+                "C. Republican",
+                "D. Whig"
+            ],
+            "answer": "Republican"
+        },
+        {
+            "questions": "These two countries held a commonwealth from the 16th to 18th century.",
+            "options": [
+                "A. Bangladesh and Bhutan",
+                "B. North Korea and South Korea",
+                "C. Poland and Lithuania",
+                "D. Hutu and Rwanda"
+            ],
+            "answer": "Poland and Lithuania"
+        },
+        {
+            "questions": "What year did World War I begin?",
+            "options": [
+                "A. 1925",
+                "B. 1919",
+                "C. 1914",
+                "D. 1905"
+            ],
+            "answer": "1914"
+        },
+        {
+            "questions": "How old was Adolf Hitler when he died?",
+            "options": [
+                "A. 43",
+                "B. 56",
+                "C. 47",
+                "D. 65"
+            ],
+            "answer": "56"
+        },
+        {
+            "questions": "Which modern country is known as The Graveyard of Empires?",
+            "options": [
+                "A. Afghanistan",
+                "B. Iraq",
+                "C. Russia",
+                "D. China"
+            ],
+            "answer": "Afghanistan"
+        },
+        {
+            "questions": "Which country was Josef Stalin born in?",
+            "options": [
+                "A. Georgia",
+                "B. Germany",
+                "C. Poland",
+                "D. Russia"
+            ],
+            "answer": "Georgia"
+        },
+        {
+            "questions": "Who led the Communist Revolution of Russia?",
+            "options": [
+                "A. Vladimir Lenin",
+                "B. Vladimir Putin",
+                "C. Joseph Stalin",
+                "D. Mikhail Gorbachev"
+            ],
+            "answer": "Vladimir Lenin"
+        },
+        {
+            "questions": "Which of the following was Brazil was a former colony under?",
+            "options": [
+                "A. Portugal",
+                "B. Spain",
+                "C. The Netherlands",
+                "D. France"
+            ],
+            "answer": "Portugal"
+        },
+        {
+            "questions": "What is the historical name of Sri Lanka?",
+            "options": [
+                "A. Ceylon",
+                "B. Badulla",
+                "C. Colombo",
+                "D. Myanmar"
+            ],
+            "answer": "Ceylon"
+        },
+        {
+            "questions": "What was the name commonly given to the ancient trade routes that connected the East and West of Eurasia?",
+            "options": [
+                "A. Salt Road",
+                "B. Clay Road",
+                "C. Silk Road",
+                "D. Spice Road"
+            ],
+            "answer": "Silk Road"
+        },
+        {
+            "questions": "On what street did the 1666 Great Fire of London start?",
+            "options": [
+                "A. Houses of Parliament",
+                "B. Pudding Lane",
+                "C. Baker Street",
+                "D. St Pauls Cathedral"
+            ],
+            "answer": "Pudding Lane"
+        },
+        {
+            "questions": "In what year did the Great Northern War, between Russia and Sweden, end?",
+            "options": [
+                "A. 1721",
+                "B. 1727",
+                "C. 1726",
+                "D. 1724"
+            ],
+            "answer": "1721"
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "questions": [
+        {
+            "questions": "In any programming language, what is the most common way to iterate through an array?",
+            "options": [
+                "A. If Statements",
+                "B. For loops",
+                "C. Do-while loops",
+                "D. While loops"
+            ],
+            "answer": "For loops"
+        },
+        {
+            "questions": "What does CPU stand for?",
+            "options": [
+                "A. Central Process Unit",
+                "B. Computer Personal Unit",
+                "C. Central Processing Unit",
+                "D. Central Processor Unit"
+            ],
+            "answer": "Central Processing Unit"
+        },
+        {
+            "questions": "What does the MP stand for in MP3?",
+            "options": [
+                "A. Music Player",
+                "B. Moving Picture",
+                "C. Multi Pass",
+                "D. Micro Point"
+            ],
+            "answer": "Moving Picture"
+        },
+        {
+            "questions": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+            "options": [
+                "A. 512",
+                "B. 1000",
+                "C. 1024",
+                "D. 500"
+            ],
+            "answer": "1000"
+        },
+        {
+            "questions": "When Gmail first launched, how much storage did it provide for your email?",
+            "options": [
+                "A. Unlimited",
+                "B. 1GB",
+                "C. 512MB",
+                "D. 5GB"
+            ],
+            "answer": "1GB"
+        },
+        {
+            "questions": "What does GHz stand for?",
+            "options": [
+                "A. Gigahatz",
+                "B. Gigahertz",
+                "C. Gigahotz",
+                "D. Gigahetz"
+            ],
+            "answer": "Gigahertz"
+        },
+        {
+            "questions": "The programming language Swift was created to replace what other programming language?",
+            "options": [
+                "A. Objective-C",
+                "B. C++",
+                "C. Ruby",
+                "D. C#"
+            ],
+            "answer": "Objective-C"
+        },
+        {
+            "questions": "Which computer hardware device provides an interface for all other connected devices to communicate?",
+            "options": [
+                "A. Random Access Memory",
+                "B. Central Processing Unit",
+                "C. Motherboard",
+                "D. Hard Disk Drive"
+            ],
+            "answer": "Motherboard"
+        },
+        {
+            "questions": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesnt get modified?",
+            "options": [
+                "A. Public",
+                "B. Private",
+                "C. Static",
+                "D. Final"
+            ],
+            "answer": "Final"
+        },
+        {
+            "questions": "If you were to code software in this language youd only be able to type 0s and 1s.",
+            "options": [
+                "A. Binary",
+                "B. C++",
+                "C. JavaScript",
+                "D. Python"
+            ],
+            "answer": "Binary"
+        },
+        {
+            "questions": "What does the Prt Sc button do?",
+            "options": [
+                "A. Saves a .png file of whats on the screen in your screenshots folder in photos",
+                "B. Nothing",
+                "C. Captures whats on the screen and copies it to your clipboard",
+                "D. Closes all windows"
+            ],
+            "answer": "Captures whats on the screen and copies it to your clipboard"
+        },
+        {
+            "questions": "The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:",
+            "options": [
+                "A. HD Graphics 500",
+                "B. HD Graphics 600",
+                "C. HD Graphics 700 ",
+                "D. HD Graphics 7000"
+            ],
+            "answer": "HD Graphics 500"
+        },
+        {
+            "questions": "What is the most preferred image format used for logos in the Wikimedia database?",
+            "options": [
+                "A. .gif",
+                "B. .jpeg",
+                "C. .png",
+                "D. .svg"
+            ],
+            "answer": ".svg"
+        },
+        {
+            "questions": "In web design, what does CSS stand for?",
+            "options": [
+                "A. Cascading Style Sheet",
+                "B. Counter Strike: Source",
+                "C. Computer Style Sheet",
+                "D. Corrective Style Sheet"
+            ],
+            "answer": "Cascading Style Sheet"
+        },
+        {
+            "questions": "What is the code name for the mobile operating system Android 7.0?",
+            "options": [
+                "A. Marshmallow",
+                "B. Nougat",
+                "C. Jelly Bean",
+                "D. Ice Cream Sandwich"
+            ],
+            "answer": "Nougat"
+        },
+        {
+            "questions": "What is the domain name for the country Tuvalu?",
+            "options": [
+                "A. .tl",
+                "B. .tu",
+                "C. .tv",
+                "D. .tt"
+            ],
+            "answer": ".tv"
+        },
+        {
+            "questions": "How many kilobytes in one gigabyte (in decimal)?",
+            "options": [
+                "A. 1048576",
+                "B. 1000",
+                "C. 1000000",
+                "D. 1024"
+            ],
+            "answer": "1000000"
+        },
+        {
+            "questions": "On Twitter, what is the character limit for a Tweet?",
+            "options": [
+                "A. 140",
+                "B. 120",
+                "C. 160",
+                "D. 100"
+            ],
+            "answer": "140"
+        },
+        {
+            "questions": "In Hexadecimal, what color would be displayed from the color code? #00FF00?",
+            "options": [
+                "A. Red",
+                "B. Green",
+                "C. Blue",
+                "D. Yellow"
+            ],
+            "answer": "Green"
+        },
+        {
+            "questions": "Which computer language would you associate Django framework with?",
+            "options": [
+                "A. C#",
+                "B. Python",
+                "C. Java",
+                "D. C++"
+            ],
+            "answer": "Python"
+        },
+        {
+            "questions": "What does LTS stand for in the software market?",
+            "options": [
+                "A. Long Taco Service",
+                "B. Ludicrous Turbo Speed",
+                "C. Long Term Support",
+                "D. Ludicrous Transfer Speed"
+            ],
+            "answer": "Long Term Support"
+        },
+        {
+            "questions": "The numbering system with a radix of 16 is more commonly referred to as ",
+            "options": [
+                "A. Hexidecimal",
+                "B. Octal",
+                "C. Duodecimal",
+                "D. Binary"
+            ],
+            "answer": "Hexidecimal"
+        },
+        {
+            "questions": "This mobile OS held the largest market share in 2012.",
+            "options": [
+                "A. iOS",
+                "B. BlackBerry",
+                "C. Symbian",
+                "D. Android"
+            ],
+            "answer": "iOS"
+        },
+        {
+            "questions": "How many values can a single byte represent?",
+            "options": [
+                "A. 256",
+                "B. 1",
+                "C. 8",
+                "D. 1024"
+            ],
+            "answer": "256"
+        },
+        {
+            "questions": "The C programming language was created by this American computer scientist. ",
+            "options": [
+                "A. Dennis Ritchie",
+                "B. al-Khw\u0101rizm\u012b",
+                "C. Willis Ware",
+                "D. Tim Berners Lee"
+            ],
+            "answer": "Dennis Ritchie"
+        },
+        {
+            "questions": "Which programming language shares its name with an island in Indonesia?",
+            "options": [
+                "A. Java",
+                "B. C",
+                "C. Jakarta",
+                "D. Python"
+            ],
+            "answer": "Java"
+        },
+        {
+            "questions": "How long is an IPv6 address?",
+            "options": [
+                "A. 32 bits",
+                "B. 128 bytes",
+                "C. 64 bits",
+                "D. 128 bits"
+            ],
+            "answer": "128 bits"
+        },
+        {
+            "questions": "In computing, what does MIDI stand for?",
+            "options": [
+                "A. Musical Instrument Digital Interface",
+                "B. Musical Interface of Digital Instruments",
+                "C. Modular Interface of Digital Instruments",
+                "D. Musical Instrument Data Interface"
+            ],
+            "answer": "Musical Instrument Digital Interface"
+        },
+        {
+            "questions": "In computing, what does LAN stand for?",
+            "options": [
+                "A. Local Area Network",
+                "B. Long Antenna Node",
+                "C. Land Address Navigation",
+                "D. Light Access Node"
+            ],
+            "answer": "Local Area Network"
+        },
+        {
+            "questions": "What does the computer software acronym JVM stand for?",
+            "options": [
+                "A. Java Vendor Machine",
+                "B. Java Virtual Machine",
+                "C. Java Visual Machine",
+                "D. Just Virtual Machine"
+            ],
+            "answer": "Java Virtual Machine"
+        }
+    ]
+}
